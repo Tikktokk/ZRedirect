@@ -1,7 +1,7 @@
 {
   "name": "ZRedirect",
-  "description": "Improve your killboard experience by redirecting external zkillboard.com kill links to kb.evetools.org!",
-  "version": "1.0.0",
+  "description": "Improve your killboard experience by redirecting external zkillboard.com links to kb.evetools.org!",
+  "version": "1.1.0",
   "manifest_version": 2,
   "background": { "scripts": ["background.js"] },
   "icons": {

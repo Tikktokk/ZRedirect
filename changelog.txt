@@ -1,0 +1,35 @@
+## [1.1.0] - 2021-07-08
+### Added
+- Exemption made for evetools.org.
+- Redirect added for https://zkillboard.com/character/<CHARACTER_ID>/.
+- Redirect added for https://zkillboard.com/character/<CHARACTER_ID>/kills/.
+- Redirect added for https://zkillboard.com/character/<CHARACTER_ID>/losses/.
+- Redirect added for https://zkillboard.com/corporation/<CORPORATION_ID>/.
+- Redirect added for https://zkillboard.com/corporation/<CORPORATION_ID>/kills/.
+- Redirect added for https://zkillboard.com/corporation/<CORPORATION_ID>/losses/.
+- Redirect added for https://zkillboard.com/alliance/<ALLIANCE_ID>/.
+- Redirect added for https://zkillboard.com/alliance/<ALLIANCE_ID>/kills/.
+- Redirect added for https://zkillboard.com/alliance/<ALLIANCE_ID>/losses/.
+- Redirect added for https://zkillboard.com/faction/<FACTION_ID>/.
+- Redirect added for https://zkillboard.com/faction/<FACTION_ID>/kills/.
+- Redirect added for https://zkillboard.com/faction/<FACTION_ID>/losses/.
+- Redirect added for https://zkillboard.com/ship/<SHIP_ID>/.
+- Redirect added for https://zkillboard.com/ship/<SHIP_ID>/kills/.
+- Redirect added for https://zkillboard.com/ship/<SHIP_ID>/losses/.
+- Redirect added for https://zkillboard.com/group/<GROUP_ID>/.
+- Redirect added for https://zkillboard.com/group/<GROUP_ID>/kills/.
+- Redirect added for https://zkillboard.com/group/<GROUP_ID>/losses/.
+- Redirect added for https://zkillboard.com/system/<SYSTEM_ID>/.
+- Redirect added for https://zkillboard.com/constellation/<CONSTELLATION_ID>/.
+- Redirect added for https://zkillboard.com/region/<REGION_ID>/.
+- Redirect added for https://zkillboard.com/related/<SYSTEM_ID>/<DATETIME>/
+- Changelog.txt
+
+### Changed
+- Updated README.md to include br.evetools.org and installation instructions.
+
+## [1.0.0] - 2021-07-06
+### Added
+- First release!
+- Exemption made for zkillboard.com.
+- Redirect added for https://zkillboard.com/kill/<KILL_ID>/.
